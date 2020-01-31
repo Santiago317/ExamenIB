@@ -1,0 +1,1 @@
+El resultado de este proyecto tiene como funcionalidad, ser un sistema de alarma que se activa cuando el sensor detecta la presencia de un intruso, enciende un foco y genera una llamada al propietario del hogar para darle un aviso.
